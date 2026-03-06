@@ -80,8 +80,3 @@ https://github.com/MrPsycho-001
 - Applied Machine Learning in Python  
 - Advanced Data Visualization with Tableau  
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrPsycho-001&show_icons=true&theme=tokyonight)
